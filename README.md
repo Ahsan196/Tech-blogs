@@ -4,3 +4,4 @@
 4) https://medium.com/@nihalsarwar17/dont-let-your-server-die-again-and-again-227e72a24e20
 5) https://www.toptal.com/nodejs/top-10-common-nodejs-developer-mistakes
 6) https://medium.com/@m-zimmermann1/what-is-the-difference-between-mvc-and-mvvm-for-flutter-136cb33afc1
+7) https://www.bacancytechnology.com/blog/laravel-microservices
