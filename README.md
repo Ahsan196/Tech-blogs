@@ -7,3 +7,4 @@
 7) https://www.bacancytechnology.com/blog/laravel-microservices
 8) https://www.prismetric.com/laravel-microservices/#:~:text=For%20example%2C%20an%20e-commerce%20app%20could%20have%20microservices,database%20and%20codebase%2C%20communicating%20as%20needed%20via%20APIs.
 9) https://www.builder.io/blog/visual-guide-to-nodejs-event-loop
+10) https://medium.com/finnovate-io/integrating-google-tag-manager-with-a-react-app-5a8584ee2251
