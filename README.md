@@ -9,3 +9,4 @@
 9) https://www.builder.io/blog/visual-guide-to-nodejs-event-loop
 10) https://medium.com/finnovate-io/integrating-google-tag-manager-with-a-react-app-5a8584ee2251
 11) https://analystadmin.medium.com/implementing-google-analytics-and-google-tag-manager-into-a-react-js-app-e986579cd0ee
+12) https://www.youtube.com/watch?v=0aaMvVQfDhc
