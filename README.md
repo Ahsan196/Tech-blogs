@@ -10,3 +10,4 @@
 10) https://medium.com/finnovate-io/integrating-google-tag-manager-with-a-react-app-5a8584ee2251
 11) https://analystadmin.medium.com/implementing-google-analytics-and-google-tag-manager-into-a-react-js-app-e986579cd0ee
 12) https://www.youtube.com/watch?v=0aaMvVQfDhc
+13) https://www.linkedin.com/posts/folio3ai_want-to-be-more-productive-in-your-work-activity-7210998463445061634-ML5R?utm_source=share&utm_medium=member_desktop
